@@ -1,0 +1,25 @@
+
+Level 1
+Experiance 0
+Name Jimbo Jenkins
+Age 42
+Race Dragonborn
+RacePerks:
+Draconic Ancestry, Breath Weapon, Damage resistance
+Class Ranger
+Spells Calming Spells
+Silence Spells
+Alignment Chaotic Nuetral
+Armour Class 0
+Strength14
+Dexterity 14
+Constitution 16
+Intelligence 15
+Wisdom 14
+Charisma 16
+Hit Die d10
+Prime Ability Dexterity and Wisdom
+Saves Strength and Dexterity
+Starting Gear
+Studded leather armor, longsword,
+short sword, longbow, and a quiver with 20 arrows

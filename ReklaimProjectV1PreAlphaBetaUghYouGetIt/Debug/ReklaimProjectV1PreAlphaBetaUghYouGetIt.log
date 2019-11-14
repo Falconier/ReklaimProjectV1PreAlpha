@@ -1,0 +1,3 @@
+﻿  CharacterBuilder.cpp
+c:\users\jacob\downloads\reklaimprojectv1prealphabetaughyougetit\reklaimprojectv1prealphabetaughyougetit\reklaimprojectv1prealphabetaughyougetit\characterbuilder.cpp(246): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ReklaimProjectV1PreAlphaBetaUghYouGetIt.vcxproj -> C:\Users\jacob\Downloads\ReklaimProjectV1PreAlphaBetaUghYouGetIt\ReklaimProjectV1PreAlphaBetaUghYouGetIt\Debug\ReklaimProjectV1PreAlphaBetaUghYouGetIt.exe
